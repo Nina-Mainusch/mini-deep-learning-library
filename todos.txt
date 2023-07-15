@@ -1,0 +1,13 @@
+What I did:
+
+What I want to do next:
+    # now I gotta do optimizer.step()
+    # Then I want to do nonlinear activation functions
+    # Lastly I want to do batches
+    # Then I want to run an end to end test,
+    # probably plotting the decision boundary and the 2D data points and the evolution over training
+
+TO DECIDES:
+-   # TODO how do we want to initialize the weights and bias?
+    # self.weights = np.random.normal(0, 1, size=(input_neurons, output_neurons))
+    # self.bias = np.random.normal(0, 1, size=(input_neurons, output_neurons))
